@@ -1,0 +1,10 @@
+C:\Users\Vinicius\Desktop\Projetos\Temperatura\Temperatura\bin\Debug\Temperatura.exe.config
+C:\Users\Vinicius\Desktop\Projetos\Temperatura\Temperatura\bin\Debug\Temperatura.exe
+C:\Users\Vinicius\Desktop\Projetos\Temperatura\Temperatura\bin\Debug\Temperatura.pdb
+C:\Users\Vinicius\Desktop\Projetos\Temperatura\Temperatura\obj\Debug\Temperatura.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Projetos\Temperatura\Temperatura\obj\Debug\Temperatura.frmPrincipal.resources
+C:\Users\Vinicius\Desktop\Projetos\Temperatura\Temperatura\obj\Debug\Temperatura.Properties.Resources.resources
+C:\Users\Vinicius\Desktop\Projetos\Temperatura\Temperatura\obj\Debug\Temperatura.csproj.GenerateResource.cache
+C:\Users\Vinicius\Desktop\Projetos\Temperatura\Temperatura\obj\Debug\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Projetos\Temperatura\Temperatura\obj\Debug\Temperatura.exe
+C:\Users\Vinicius\Desktop\Projetos\Temperatura\Temperatura\obj\Debug\Temperatura.pdb
